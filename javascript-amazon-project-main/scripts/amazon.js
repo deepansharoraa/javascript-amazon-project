@@ -1,3 +1,4 @@
+import {cart} from '../data/cart.js';
 
 
 
@@ -98,7 +99,7 @@ document.querySelectorAll('.js-add-to-cart')
 
 
 
-
+ 
       
     });
   });
