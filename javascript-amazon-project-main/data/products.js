@@ -70,12 +70,14 @@ console.log(this);
 const object2 = {
   a: 2,
   b: this.a
+  error
 };
 */
 
 /*
 function logThis() {
   console.log(this);
+  undefined
 }
 logThis();
 logThis.call('hello');
